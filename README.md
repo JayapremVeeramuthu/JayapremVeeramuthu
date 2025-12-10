@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Jayaprem V 👋
 
-<!--
-**JayapremVeeramuthu/JayapremVeeramuthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | UI/UX Designer  
+📍 From Tamil Nadu, India 🇮🇳
 
-Here are some ideas to get you started:
+I specialize in creating responsive, modern UI websites and full-stack e-commerce applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Portfolio Website  
+👉 https://jpremportfolioo.netlify.app/
+
+---
+
+## 💡 Skills
+
+### 🖥️ Frontend Development  
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- React (Basics)
+
+### ⚙️ Backend & Programming  
+- Java  
+- SQL  
+- Firebase  
+- Python (Basics)
+
+### 🧰 Tools & Collaboration  
+- Git & GitHub
+
+### 🎨 Design & UI Tools  
+- Figma  
+- Framer  
+- Miro  
+- Penpot  
+- Photoshop  
+- CorelDRAW  
+- WordPress
+
+---
+
+## 📌 Social Links  
+👉 LinkedIn → https://www.linkedin.com/in/jayaprem-v/  
+👉 Instagram → https://www.instagram.com/jayapremv  
+👉 GitHub Profile → https://github.com/JayapremVeeramuthu  
+
+---
+
+⭐ "Consistency beats talent — always!"
