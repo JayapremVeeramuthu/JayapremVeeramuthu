@@ -1,52 +1,72 @@
-# Jayaprem V
+<div align="center">
 
-🚀 Hi, I'm Jayaprem V  
-Frontend Developer · UI/UX Designer
+# 👋 Hi, I'm **Jayaprem V**
+### 🎨 UI/UX Designer • 🖥️ Frontend Developer  
+📍 Tamil Nadu, India 🇮🇳  
 
-📍 Tamil Nadu, India 🇮🇳
+Crafting clean user interfaces, modern websites, and smooth digital experiences.  
+Over **50+ design projects** and multiple web apps built with a passion for clarity + creativity.
 
-I craft modern, responsive websites, clean UI systems, and meaningful digital experiences.  
-Focused on building frontend applications, design systems, and 50+ creative design works including UI layouts and poster designs.
+🌐 **Portfolio:**  
+👉 https://jayapremv.vercel.app
 
-🌐 Portfolio  
-🔗 https://jayapremv.vercel.app
+---
 
-💡 Skills & Expertise  
+</div>
 
-🖥️ Frontend Development  
-HTML, CSS, JavaScript  
-React (Basics)  
-Bootstrap  
-Responsive UI Development  
+---
 
-⚙️ Backend & Programming  
-Java  
-SQL  
-Firebase  
-Python (Basics)  
+## 🌟 What I Do  
+- Design **modern UI systems** & smooth user experiences  
+- Build **responsive frontend websites** with clean code  
+- Create **branding & poster designs** (50+ completed)  
+- Develop **React-based interfaces** and reusable components  
 
-🎨 Design & UI Tools  
-Figma  
-Framer  
-Miro  
-Penpot  
-Photoshop  
-CorelDRAW  
-WordPress  
+---
 
-🧰 Tools & Collaboration  
-Git  
-GitHub  
-VS Code  
-Vercel  
+## 🚀 Tech Expertise
 
-📌 Social Links  
+### 🧩 **Languages**
+| | |
+|---|---|
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) | |
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/jayaprem-v-37a34a315
+---
 
-🔗 Instagram:  
-https://www.instagram.com/jayapremv
+### 🏗️ **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-🔗 GitHub:  
-https://github.com/JayapremVeeramuthu
+---
+
+### ☁️ **Database & Cloud**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🛠️ **Tools & Design Platforms**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Connect With Me  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/jayaprem-v-37a34a315  
+- 🔗 **Instagram:** https://www.instagram.com/jayapremv  
+- 🔗 **GitHub:** https://github.com/JayapremVeeramuthu  
+
+---
+
+<div align="center">
+
+✨ *“Design is not just what it looks like — it's how it works.”*  
+— Jayaprem V  
+
+</div>
