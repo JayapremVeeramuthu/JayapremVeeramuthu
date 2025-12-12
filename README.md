@@ -1,49 +1,69 @@
-# Hi, I'm Jayaprem V 👋
+🚀 Hi, I'm Jayaprem V
+Frontend Developer · UI/UX Designer
 
-🚀 Frontend Developer | UI/UX Designer  
-📍 From Tamil Nadu, India 🇮🇳
+📍 Tamil Nadu, India 🇮🇳
 
-I specialize in creating responsive, modern UI websites and full-stack e-commerce applications.
+I craft modern, responsive websites, clean UI systems, and meaningful digital experiences.
+Focused on building frontend applications, design systems, and 50+ creative design works.
 
----
+🌐 Portfolio
 
-## 🌐 Portfolio Website  
-👉 https://jayapremv.vercel.app/
+🔗 https://jayapremv.vercel.app
 
----
+💡 Skills & Expertise
+🖥️ Frontend Development
 
-## 💡 Skills
+HTML, CSS, JavaScript
 
-### 🖥️ Frontend Development  
-- HTML, CSS, JavaScript  
-- Bootstrap  
-- React (Basics)
+React (Basics)
 
-### ⚙️ Backend & Programming  
-- Java  
-- SQL  
-- Firebase  
-- Python (Basics)
+Bootstrap
 
-### 🧰 Tools & Collaboration  
-- Git & GitHub
+Responsive UI Development
 
-### 🎨 Design & UI Tools  
-- Figma  
-- Framer  
-- Miro  
-- Penpot  
-- Photoshop  
-- CorelDRAW  
-- WordPress
+⚙️ Backend & Programming
 
----
+Java
 
-## 📌 Social Links  
-👉 LinkedIn → https://www.linkedin.com/in/jayaprem-v/  
-👉 Instagram → https://www.instagram.com/jayapremv  
-👉 GitHub Profile → https://github.com/JayapremVeeramuthu  
+SQL
 
----
+Firebase
 
-⭐ "Consistency beats talent — always!"
+Python (Basics)
+
+🎨 Design & UI Tools
+
+Figma
+
+Framer
+
+Miro
+
+Penpot
+
+Photoshop
+
+CorelDRAW
+
+WordPress
+
+🧰 Tools & Collaboration
+
+Git
+
+GitHub
+
+VS Code
+
+Vercel
+
+📌 Social Links
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/jayaprem-v-37a34a315
+
+🔗 Instagram:
+https://www.instagram.com/jayapremv
+
+🔗 GitHub:
+https://github.com/JayapremVeeramuthu
