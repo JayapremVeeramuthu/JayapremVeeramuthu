@@ -49,14 +49,19 @@ Over **50+ design projects** and multiple web apps built with a passion for clar
 
 ---
 
-### 🛠️ **Tools & Design Platforms**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Coreldraw]
-![Miro]
-![Penpot]
+### 🛠️ Tools & Design Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-F7C600?style=for-the-badge&logo=miro&logoColor=black" />
+  <img src="https://img.shields.io/badge/Penpot-00CEB4?style=for-the-badge&logo=penpot&logoColor=white" />
+</p>
+
 
 ---
 
